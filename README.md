@@ -25,4 +25,5 @@
 ## Top Languages
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishak10&layout=compact)
 
-### Check out my 2nd account for art works made by code and notes materials: [Vaishak KS](https://github.com/VaishakKS)
+### Check out my 2nd account for art works made by code and notes materials
+ [Vaishak KS](https://github.com/VaishakKS)
