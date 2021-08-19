@@ -26,11 +26,9 @@
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishak10&layout=compact)
 
 ## Project Challenges
-  
   ### Front End Mentor
-      
-    - [calculator-app-main](https://github.com/vaishak10/calculator-app-main)
-    - [profile-card-component-main](https://github.com/vaishak10/profile-card-component-main)
+  - [Calculator](https://github.com/vaishak10/calculator-app-main)
+  - [Profile card component](https://github.com/vaishak10/profile-card-component-main)
   
 ## Check out my 2nd account for art works made by code and notes materials
  [Vaishak KS](https://github.com/VaishakKS)
