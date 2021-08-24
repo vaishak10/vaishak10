@@ -29,6 +29,7 @@
   ### Front End Mentor
   - [Calculator](https://github.com/vaishak10/calculator-app-main)
   - [Profile card component](https://github.com/vaishak10/profile-card-component-main)
+  - [Social Media Dashboard](https://github.com/vaishak10/social-media-dashboard)
   
 ## Check out my 2nd account for art works made by code and notes materials
  [Vaishak KS](https://github.com/VaishakKS)
