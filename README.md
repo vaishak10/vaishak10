@@ -35,6 +35,10 @@
   - [Calculator](https://github.com/vaishak10/calculator-app-main)
   - [Profile card component](https://github.com/vaishak10/profile-card-component-main)
   - [Social Media Dashboard](https://github.com/vaishak10/social-media-dashboard)
+
+## College Projects (source code)
+  - [Bus booking system](https://github.com/vaishak10/Bus-Booking) - **Web application**
+  - [Attendance management system](https://github.com/vaishak10/attendance-management-using-OpenCV) - **Image Processing**
   
 ## Check out my 2nd account for art works made by code and notes materials
  [Vaishak KS](https://github.com/VaishakKS)
