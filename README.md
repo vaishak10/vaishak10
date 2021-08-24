@@ -2,8 +2,11 @@
 
 - I am currently working as a software developer.
 - Current learning: React, Typescript.
-- Reach me at : 
-<a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- Reach me at: <a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- Social media handles:
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vaishak-k-30a909191/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/noob_devv) 
+[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vaishak10) 
 
 ## What I work with
 <p>
