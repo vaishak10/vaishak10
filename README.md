@@ -38,6 +38,9 @@
   - [Calculator](https://github.com/vaishak10/calculator-app-main)
   - [Profile card component](https://github.com/vaishak10/profile-card-component-main)
   - [Social Media Dashboard](https://github.com/vaishak10/social-media-dashboard)
+ 
+ ### Javascript30 challenges
+  - [Drum Kit](https://github.com/vaishak10/Javascript30-Challenge-Projects/tree/main/Drum-Kit)
 
 ## College Projects (source code)
   - [Bus booking system](https://github.com/vaishak10/Bus-Booking) - **Web application**
