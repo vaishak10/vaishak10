@@ -22,6 +22,9 @@
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 </p>
 
+## Profile Activities
+![](https://komarev.com/ghpvc/?username=vaishak10&label=PROFILE+VIEWS)
+
 ## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=vaishak10&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishak10&theme=dark" width="45%" />
