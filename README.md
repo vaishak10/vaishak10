@@ -1,12 +1,13 @@
-### Hi there 👋 . I am Vaishak K and this is my profile
+### Hi there 👋. I am Vaishak K and this is my profile
 
 - I am currently working as a software developer.
-- Current learning: React, Typescript.
+- An open source enthusiast, wanting to learn new technologies and contribute to the dev community.
 - Reach me at: <a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 - Connect with me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vaishak-k-30a909191/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/noob_devv) 
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vaishak10) 
+- Check out my 2nd account for art works made by code, mini projects and notes materials: [Vaishak KS](https://github.com/VaishakKS)
 
 ## What I work with
 <p>
@@ -46,6 +47,7 @@
 ## College Projects (source code)
   - [Bus booking system](https://github.com/vaishak10/Bus-Booking) - **Web application**
   - [Attendance management system](https://github.com/vaishak10/attendance-management-using-OpenCV) - **Image Processing**
-  
-## Check out my 2nd account for art works made by code and notes materials
- [Vaishak KS](https://github.com/VaishakKS)
+
+[comment]: <> (free icons: https://simpleicons.org/)
+
+
