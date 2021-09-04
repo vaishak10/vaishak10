@@ -35,6 +35,11 @@
 ## Top Languages
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishak10&layout=compact)
 
+## My works
+1. Github User Search 
+      - [repository](https://github.com/vaishak10/github-user-search)
+      - [live-site-url](https://github-user-search-teal.vercel.app/)                                                                                          
+
 ## Project Challenges
   ### Front End Mentor
   - [Calculator](https://github.com/vaishak10/calculator-app-main)
