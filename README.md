@@ -34,7 +34,7 @@
 
 ## My works
 1. Github User Search: 
-   [repository](https://github.com/vaishak10/github-user-search)  |  [live-site-url](https://github-user-search-teal.vercel.app/)                                                                                          
+   [repository](https://github.com/vaishak10/github-user-search)  |  [live site url](https://github-user-search-teal.vercel.app/)                                                                                          
 
 ## Project Challenges                                                                                              
   <details>
