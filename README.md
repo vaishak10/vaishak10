@@ -24,9 +24,6 @@
   <img alt="Markdown" src=https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height=20 />
 </p>
 
-## Profile Activities
-![](https://komarev.com/ghpvc/?username=vaishak10&label=PROFILE+VIEWS)
-
 ## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=vaishak10&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishak10&theme=dark" width="45%" />
@@ -36,23 +33,33 @@
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishak10&layout=compact)
 
 ## My works
-1. Github User Search 
-      - [repository](https://github.com/vaishak10/github-user-search)
-      - [live-site-url](https://github-user-search-teal.vercel.app/)                                                                                          
+1. Github User Search: 
+   [repository](https://github.com/vaishak10/github-user-search)  |  [live-site-url](https://github-user-search-teal.vercel.app/)                                                                                          
 
-## Project Challenges
-  ### Front End Mentor
-  - [Calculator](https://github.com/vaishak10/calculator-app-main)
-  - [Profile card component](https://github.com/vaishak10/profile-card-component-main)
-  - [Social Media Dashboard](https://github.com/vaishak10/social-media-dashboard)
- 
- ### Javascript30 challenges
-  - [Drum Kit](https://github.com/vaishak10/Javascript30-Challenge-Projects/tree/main/Drum-Kit)
+## Project Challenges                                                                                              
+  <details>
+  <summary>
+  <strong> Front End Mentor </strong>
+  </summary>
+      <ul>
+       <li><a href="https://github.com/vaishak10/calculator-app-main">Calculator</a></li>
+       <li><a href="https://github.com/vaishak10/profile-card-component-main">Profile card component</a></li>
+       <li><a href="https://github.com/vaishak10/social-media-dashboard">Social Media Dashboard</a></li>
+      </ul>
+  </details>    
+                                                                        
+  <details>
+  <summary>
+  <strong> Javascript30 </strong>
+  </summary>
+      <ul>
+       <li><a href="https://github.com/vaishak10/Javascript30-Challenge-Projects/tree/main/Drum-Kit">Drum Kit</a></li>
+       <li><a href="https://github.com/vaishak10/Javascript30-Challenge-Projects/tree/main/Js-clock">JS Clock</a></li>
+      </ul>
+  </details>                                                                                                                                             
 
 ## College Projects (source code)
   - [Bus booking system](https://github.com/vaishak10/Bus-Booking) - **Web application**
   - [Attendance management system](https://github.com/vaishak10/attendance-management-using-OpenCV) - **Image Processing**
 
 [comment]: <> (free icons: https://simpleicons.org/)
-
-
