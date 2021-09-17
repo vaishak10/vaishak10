@@ -45,6 +45,7 @@
        <li><a href="https://github.com/vaishak10/calculator-app-main">Calculator</a></li>
        <li><a href="https://github.com/vaishak10/profile-card-component-main">Profile card component</a></li>
        <li><a href="https://github.com/vaishak10/social-media-dashboard">Social Media Dashboard</a></li>
+       <li><a href="https://github.com/vaishak10/order-summary-component-main">Order summary component</a></li>                                                                
       </ul>
   </details>    
                                                                         
