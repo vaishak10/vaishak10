@@ -28,10 +28,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vaishak10&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishak10&theme=dark" width="45%" />
 
-
-## Top Languages
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishak10&layout=compact)
-
 ## My works
 1. Github User Search: 
    [repository](https://github.com/vaishak10/github-user-search)  |  [live site url](https://github-user-search-teal.vercel.app/)                                                                                          
