@@ -52,6 +52,7 @@
       <ul>
        <li><a href="https://github.com/vaishak10/Javascript30-Challenge-Projects/tree/main/Drum-Kit">Drum Kit</a></li>
        <li><a href="https://github.com/vaishak10/Javascript30-Challenge-Projects/tree/main/Js-clock">JS Clock</a></li>
+       <li><a href="https://github.com/vaishak10/Javascript30-Challenge-Projects/tree/main/Update-CSS-Variables">Update CSS Variables</a></li>
       </ul>
   </details>                                                                                                                                             
 
