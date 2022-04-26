@@ -3,6 +3,7 @@
 - I am currently working as a Frontend Developer.
 - On a mission to excel in all frontend tools and frameworks.
 - An open source enthusiast who aspires to be a frontend architect.
+- Also have interests in UX and Design space. 
 - Reach me at: <a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 - Connect with me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vaishak-k-30a909191/)
