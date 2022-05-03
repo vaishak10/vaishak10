@@ -1,4 +1,4 @@
-### Hi there 👋. I am Vaishak K and this is my profile
+### Hi there 👋. I am Vaishak K and welcome to my mini dev world!
 
 - I am currently working as a Frontend Developer.
 - On a mission to excel in all frontend tools and frameworks.
