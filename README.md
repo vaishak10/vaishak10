@@ -1,6 +1,6 @@
 ### Hi there 👋. I am Vaishak K and welcome to my mini dev world!
 
-- I am currently working as a Frontend Developer.
+- I am currently working as a Frontend Engineer.
 - On a mission to excel in all frontend tools and frameworks.
 - An open source enthusiast who aspires to be a frontend architect.
 - Also have interests in UX and Design space. 
